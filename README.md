@@ -1,7 +1,6 @@
 Install and compile this program
 1. open your command prompt
-2. command
-git clone https://github.com/cklaw30/AES.git
-cd AES
-g++ Main.cpp
-a
+2. git clone https://github.com/cklaw30/AES.git
+3. cd AES
+4. g++ Main.cpp
+5. a
